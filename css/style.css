@@ -143,9 +143,6 @@ body {
     z-index: -1;
 }
 
-.award-card {
-}
-
 /* Tilt effect for cards and buttons */
 .btn,
 .project-card,
@@ -710,8 +707,6 @@ section h2::after {
     display: none; /* Hidden as requested, whole card is now clickable */
 }
 
-.project-card.clickable {
-}
 
 /* Education Section */
 .timeline {
